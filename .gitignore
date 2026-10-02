@@ -1,0 +1,12 @@
+.env
+*.mp4
+*.mov
+*.wav
+*.mp3
+outputs/reels/**/renders/
+assets/characters/*.png
+assets/characters/*.jpg
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

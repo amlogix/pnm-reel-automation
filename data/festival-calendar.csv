@@ -1,0 +1,77 @@
+date,day,festival_en,festival_hi,type,recurrence,service_page,content_angle,lead_days,verified,source_note
+2026-10-01,Thu,Rohini Vrat,रोहिणी व्रत,vrat,monthly,/puja,Jain-origin monthly vrat; low priority,7,NO,Prokerala 2026
+2026-10-03,Sat,Madhya Ashtami,मध्य अष्टमी,shradh,annual,/book-online-shradh-puja-with-verified-pandits,Mid-point of Pitru Paksha,7,NO,Prokerala 2026
+2026-10-03,Sat,Kalashtami,कालाष्टमी,vrat,monthly,/homa/kaal-bhairav-homa,Kaal Bhairav worship; recurring monthly angle,7,NO,Prokerala 2026
+2026-10-03,Sat,Mahalakshmi Vrat Ends,महालक्ष्मी व्रत समाप्त,vrat,annual,/puja/mahalaxmi-puja,16-day vrat concludes,7,NO,Prokerala 2026
+2026-10-04,Sun,Avidhava Navami,अविधवा नवमी,shradh,annual,/book-online-shradh-puja-with-verified-pandits,Shradh for married women who predeceased husband,7,NO,Prokerala 2026
+2026-10-06,Tue,Indira Ekadashi,इंदिरा एकादशी,ekadashi,fortnightly,/puja/vishnu-puja,Ekadashi in Pitru Paksha — liberation of ancestors,7,NO,Prokerala 2026
+2026-10-07,Wed,Magha Shraddha,मघा श्राद्ध,shradh,annual,/book-online-shradh-puja-with-verified-pandits,Shradh on Magha nakshatra,7,NO,Prokerala 2026
+2026-10-08,Thu,Masik Shivaratri,मासिक शिवरात्रि,vrat,monthly,/puja/rudrabhishek-puja,Monthly Shiva night,5,NO,Prokerala 2026
+2026-10-08,Thu,Pradosh Vrat,प्रदोष व्रत,vrat,fortnightly,/puja/rudrabhishek-puja,Twice-monthly Shiva vrat,5,NO,Prokerala 2026
+2026-10-10,Sat,Mahalaya / Sarva Pitru Amavasya,महालया / सर्व पितृ अमावस्या,shradh,annual,/book-online-shradh-puja-with-verified-pandits,HIGH PRIORITY — final day of Pitru Paksha; shradh for all ancestors and for those whose tithi is unknown,10,NO,Prokerala 2026
+2026-10-11,Sun,Navratri Begins / Ghatasthapana,नवरात्रि आरंभ / घटस्थापना,festival,annual,/puja/ghatasthapana-puja,HIGH PRIORITY — kalash sthapana muhurat; barley sowing; akhand jyot,10,NO,"CONFLICT: 7 Oct / 11 Oct / 12 Oct / 13 Oct across sources. Prokerala + Wikipedia + 2 Gujarati panchang = 11 Oct. PANDIT MUST CONFIRM."
+2026-10-11,Sun,Sharad Ritu begins,शरद ऋतु आरंभ,season,annual,/puja,Seasonal transition — ritual relevance,7,NO,Prokerala 2026
+2026-10-12,Mon,Sindhara Dooj,सिंधारा दूज,festival,annual,/puja,Navratri day 2,5,NO,Prokerala 2026
+2026-10-14,Wed,Chaturthi Vrat,चतुर्थी व्रत,vrat,monthly,/puja/ganesh-chaturthi-puja,Monthly Ganesh vrat,5,NO,Prokerala 2026
+2026-10-15,Thu,Lalita Panchami,ललिता पंचमी,festival,annual,/navratri,Navratri day 5 — Lalita Devi,7,NO,Prokerala 2026
+2026-10-16,Fri,Saraswati Avahan,सरस्वती आवाहन,festival,annual,/puja/saraswati-puja,Invocation of Saraswati during Navratri,7,NO,Prokerala 2026
+2026-10-17,Sat,Durga Puja begins,दुर्गा पूजा आरंभ,festival,annual,/festival-puja/durga-puja,HIGH PRIORITY — Bengali Durga Puja,10,NO,Prokerala 2026
+2026-10-17,Sat,Tula Sankranti,तुला संक्रांति,sankranti,monthly,/puja,Solar transit into Libra,5,NO,Prokerala 2026
+2026-10-19,Mon,Durga Ashtami / Maha Navami,दुर्गा अष्टमी / महानवमी,festival,annual,/navratri,HIGH PRIORITY — Kanya Pujan day; the boy (Langur/Batuk) question,10,NO,"CONFLICT on Dussehra date. PANDIT MUST CONFIRM."
+2026-10-21,Wed,Vijayadashami / Dussehra,विजयादशमी / दशहरा,festival,annual,/festival-puja/dussehra-puja,HIGH PRIORITY — victory; new beginnings; shastra puja,10,NO,"CONFLICT: 17 / 20 / 21 Oct across sources. PANDIT MUST CONFIRM."
+2026-10-22,Thu,Papankusha Ekadashi,पापांकुशा एकादशी,ekadashi,fortnightly,/puja/vishnu-puja,Ekadashi,5,NO,Prokerala 2026
+2026-10-25,Sun,Sharad Purnima / Kojagara,शरद पूर्णिमा / कोजागरा,festival,annual,/puja/mahalaxmi-puja,Lakshmi keeps vigil; kheer under moonlight,7,NO,Prokerala 2026
+2026-10-25,Sun,Satyanarayan Puja,सत्यनारायण पूजा,puja,monthly,/puja/satyanarayan-puja,RECURRING — every Purnima. Highest-frequency booking driver.,5,NO,Prokerala 2026
+2026-10-26,Mon,Kartik Snan begins,कार्तिक स्नान आरंभ,season,annual,/puja,Month-long holy bathing period begins,7,NO,Prokerala 2026
+2026-10-29,Thu,Sankashti Chaturthi,संकष्टी चतुर्थी,vrat,monthly,/puja/ganesh-chaturthi-puja,Monthly Ganesh vrat — obstacle removal,5,NO,Prokerala 2026
+2026-10-30,Fri,Karwa Chauth,करवा चौथ,festival,annual,/puja,HIGH PRIORITY — married women fast; huge emotional angle,10,NO,Prokerala 2026
+2026-11-01,Sun,Ahoi Ashtami,अहोई अष्टमी,festival,annual,/puja,Mothers fast for children,7,NO,Prokerala 2026
+2026-11-05,Thu,Rama Ekadashi,रमा एकादशी,ekadashi,fortnightly,/puja/vishnu-puja,Ekadashi before Diwali,5,NO,Prokerala 2026
+2026-11-05,Thu,Govatsa Dwadashi,गोवत्स द्वादशी,festival,annual,/puja,Cow and calf worship; Vasu Baras,5,NO,Prokerala 2026
+2026-11-06,Fri,Dhanteras,धनतेरस,festival,annual,/puja/dhanteras-puja,HIGH PRIORITY — buying muhurat; Dhanvantari,10,NO,Prokerala 2026
+2026-11-07,Sat,Kali Chaudas,काली चौदस,festival,annual,/puja,Gujarat-specific — Kali worship,7,NO,Prokerala 2026
+2026-11-08,Sun,Diwali / Lakshmi Puja,दिवाली / लक्ष्मी पूजा,festival,annual,/puja/diwali-puja,HIGHEST PRIORITY — Lakshmi puja muhurat; chopda pujan in Gujarat,14,NO,Prokerala 2026
+2026-11-09,Mon,Amavasya,अमावस्या,vrat,monthly,/book-online-shradh-puja-with-verified-pandits,Monthly new moon — ancestral offerings,5,NO,Prokerala 2026
+2026-11-10,Tue,Govardhan Puja / Annakoot,गोवर्धन पूजा / अन्नकूट,festival,annual,/puja/govardhan-puja,Bestu Varas in Gujarat — new year for traders,10,NO,"CONFLICT: Gujarati New Year listed 9 or 10 Nov. PANDIT MUST CONFIRM."
+2026-11-11,Wed,Bhai Dooj,भाई दूज,festival,annual,/puja,Sibling bond — strong tag/share angle,7,NO,Prokerala 2026
+2026-11-14,Sat,Labh Panchami,लाभ पंचमी,festival,annual,/puja/office-opening-puja,GUJARAT KEY — businesses reopen; new account books,10,NO,Prokerala 2026
+2026-11-15,Sun,Chhath Puja,छठ पूजा,festival,annual,/puja/surya-puja,Sun worship — Bihar/UP diaspora,10,NO,Prokerala 2026
+2026-11-16,Mon,Vrischika Sankranti,वृश्चिक संक्रांति,sankranti,monthly,/puja,Solar transit into Scorpio,5,NO,Prokerala 2026
+2026-11-17,Tue,Gopashtami,गोपाष्टमी,festival,annual,/puja,Cow worship,5,NO,Prokerala 2026
+2026-11-18,Wed,Akshaya Navami,अक्षय नवमी,festival,annual,/puja,Amla Navami — merit that does not diminish,5,NO,Prokerala 2026
+2026-11-20,Fri,Prabodhini / Dev Uthani Ekadashi,प्रबोधिनी / देव उठनी एकादशी,ekadashi,annual,/puja/marriage-puja,HIGH PRIORITY — WEDDING AND GRIHA PRAVESH SEASON OPENS,14,NO,Prokerala 2026
+2026-11-21,Sat,Tulsi Vivah,तुलसी विवाह,festival,annual,/festival-puja/tulsi-vivah,Marriage of Tulsi and Shaligram,7,NO,Prokerala 2026
+2026-11-24,Tue,Kartik Purnima / Dev Diwali,कार्तिक पूर्णिमा / देव दिवाली,festival,annual,/puja/satyanarayan-puja,Highly auspicious Purnima; Guru Nanak Jayanti same day,10,NO,Prokerala 2026
+2026-11-27,Fri,Saubhagya Sundari Teej,सौभाग्य सुंदरी तीज,vrat,annual,/puja,Married women's vrat,5,NO,Prokerala 2026
+2026-12-01,Tue,Kalabhairav Jayanti,कालभैरव जयंती,festival,annual,/homa/kaal-bhairav-homa,Kaal Bhairav — protection,7,NO,Prokerala 2026
+2026-12-04,Fri,Utpanna Ekadashi,उत्पन्ना एकादशी,ekadashi,fortnightly,/puja/vishnu-puja,Origin story of Ekadashi Devi — strong Format B topic,5,NO,Prokerala 2026
+2026-12-08,Tue,Amavasya,अमावस्या,vrat,monthly,/book-online-shradh-puja-with-verified-pandits,Monthly new moon,5,NO,Prokerala 2026
+2026-12-14,Mon,Vivah Panchami,विवाह पंचमी,festival,annual,/puja/marriage-puja,Marriage of Ram and Sita — wedding season angle,7,NO,Prokerala 2026
+2026-12-16,Wed,Dhanu Sankranti,धनु संक्रांति,sankranti,monthly,/puja,Kharmas begins — inauspicious period for weddings,7,NO,Prokerala 2026
+2026-12-20,Sun,Gita Jayanti / Mokshada Ekadashi,गीता जयंती / मोक्षदा एकादशी,festival,annual,/puja/vishnu-puja,Bhagavad Gita revealed; Vaikuntha Ekadashi,7,NO,Prokerala 2026
+2026-12-23,Wed,Margashirsha Purnima,मार्गशीर्ष पूर्णिमा,festival,monthly,/puja/satyanarayan-puja,Purnima + Annapurna Jayanti,5,NO,Prokerala 2026
+2026-12-26,Sat,Sankashti Chaturthi,संकष्टी चतुर्थी,vrat,monthly,/puja/ganesh-chaturthi-puja,Monthly Ganesh vrat,5,NO,Prokerala 2026
+2027-01-15,Fri,Makar Sankranti,मकर संक्रांति,festival,annual,/puja,HIGH PRIORITY — Uttarayan; kite festival in Gujarat; Kharmas ends,14,NO,Prokerala 2027
+2027-02-11,Thu,Basant Panchami,बसंत पंचमी,festival,annual,/puja/saraswati-puja,Saraswati puja; Vidyarambh muhurat,10,NO,Prokerala 2027
+2027-03-06,Sat,Maha Shivaratri,महाशिवरात्रि,festival,annual,/puja/rudrabhishek-puja,HIGHEST PRIORITY for Rudrabhishek bookings,14,NO,Prokerala 2027
+2027-03-23,Tue,Holi,होली,festival,annual,/festival-puja/holi-puja,Holika Dahan previous evening,14,NO,Prokerala 2027
+2027-04-07,Wed,Gudi Padwa / Chaitra Navratri,गुड़ी पड़वा / चैत्र नवरात्रि,festival,annual,/puja/navaratri-puja,Hindu New Year; Chaitra Navratri begins,14,NO,Prokerala 2027
+2027-05-09,Sun,Akshaya Tritiya,अक्षय तृतीया,festival,annual,/puja,HIGH PRIORITY — buying muhurat; no muhurat needed for auspicious work,14,NO,Prokerala 2027
+2027-05-20,Thu,Buddha Purnima,बुद्ध पूर्णिमा,festival,annual,/puja/satyanarayan-puja,Purnima,7,NO,Prokerala 2027
+2027-06-04,Fri,Vat Savitri Vrat,वट सावित्री व्रत,vrat,annual,/festival-puja/vat-savitri-puja,Married women; banyan tree,10,NO,Prokerala 2027
+2027-07-18,Sun,Guru Purnima,गुरु पूर्णिमा,festival,annual,/puja,Guru worship,10,NO,Prokerala 2027
+2027-08-04,Wed,Hariyali Teej,हरियाली तीज,festival,annual,/puja,Married women; monsoon,7,NO,Prokerala 2027
+2027-08-17,Tue,Raksha Bandhan,रक्षाबंधन,festival,annual,/puja,HIGH PRIORITY — sibling bond; strong share angle,14,NO,Prokerala 2027
+2027-08-25,Wed,Krishna Janmashtami,कृष्ण जन्माष्टमी,festival,annual,/festival-puja/krishna-janmashtami-puja,HIGH PRIORITY,14,NO,Prokerala 2027
+2027-09-04,Sat,Ganesh Chaturthi,गणेश चतुर्थी,festival,annual,/puja/ganesh-chaturthi-puja,HIGHEST PRIORITY — 10-day festival begins,14,NO,Prokerala 2027
+2027-09-14,Tue,Ganesh Visarjan / Anant Chaturdashi,गणेश विसर्जन / अनंत चतुर्दशी,festival,annual,/festival-puja/ganesh-mahotsav,Nimajjan — why the 11th day,10,NO,Prokerala 2027
+2027-09-16,Thu,Pitru Paksha begins,पितृ पक्ष आरंभ,shradh,annual,/ritual/pitru-paksha-shradh,HIGH PRIORITY — 16-day shradh period. ESTIMATED from Mahalaya date; CONFIRM,14,NO,"ESTIMATED — derived, not sourced. PANDIT MUST CONFIRM."
+2027-09-29,Wed,Mahalaya / Sarva Pitru Amavasya,महालया अमावस्या,shradh,annual,/book-online-shradh-puja-with-verified-pandits,HIGH PRIORITY — final shradh day,10,NO,Prokerala 2027
+2027-09-30,Thu,Navratri Begins,नवरात्रि आरंभ,festival,annual,/puja/ghatasthapana-puja,HIGHEST PRIORITY,14,NO,Prokerala 2027
+2027-10-07,Thu,Durga Ashtami / Saraswati Puja,दुर्गा अष्टमी,festival,annual,/navratri,Kanya Pujan,10,NO,Prokerala 2027
+2027-10-09,Sat,Vijayadashami / Dussehra,विजयादशमी,festival,annual,/festival-puja/dussehra-puja,HIGH PRIORITY,14,NO,Prokerala 2027
+2027-10-19,Tue,Karwa Chauth,करवा चौथ,festival,annual,/puja,HIGH PRIORITY,10,NO,Prokerala 2027
+2027-10-27,Wed,Dhanteras,धनतेरस,festival,annual,/puja/dhanteras-puja,HIGH PRIORITY,10,NO,Prokerala 2027
+2027-10-29,Fri,Diwali,दिवाली,festival,annual,/puja/diwali-puja,HIGHEST PRIORITY,14,NO,Prokerala 2027
+2027-11-03,Wed,Labh Panchami,लाभ पंचमी,festival,annual,/puja/office-opening-puja,GUJARAT KEY,10,NO,Prokerala 2027
+2027-11-11,Thu,Tulsi Vivah,तुलसी विवाह,festival,annual,/festival-puja/tulsi-vivah,Wedding season opens around this period,10,NO,Prokerala 2027
