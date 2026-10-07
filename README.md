@@ -27,9 +27,12 @@ pnm-engine/
 ├── .env                    # your keys (gitignored)
 ├── .env.example            # template
 │
-├── skills/pnm-reels/       # THE LOGIC — rarely changes
-│   ├── SKILL.md            # 3 modes: Plan, Produce, Story
-│   └── references/         # formats, hooks, brand bible, protocols
+├── .claude/
+│   ├── settings.json       # shared permissions
+│   ├── commands/           # /plan-reels  /produce-reel  /check-claim
+│   └── skills/pnm-reels/   # THE LOGIC — rarely changes (auto-discovered)
+│       ├── SKILL.md        # 3 modes: Plan, Produce, Story
+│       └── references/     # formats, hooks, brand bible, protocols
 │
 ├── data/                   # THE STATE — changes constantly, WRITABLE
 │   ├── content-log.csv     # SELECTED topics only
@@ -49,7 +52,7 @@ pnm-engine/
 └── assets/references/      # competitor clips for analysis
 ```
 
-**The split that matters:** `skills/` is logic and barely changes. `data/` is state and changes every week. Never write into `skills/` during a run.
+**The split that matters:** `.claude/skills/` is logic and barely changes. `data/` is state and changes every week. Never write into `.claude/` during a run.
 
 ---
 
@@ -57,9 +60,9 @@ pnm-engine/
 
 | Task | Command |
 |---|---|
-| Plan a month | `PNM reel` (in Claude Code) |
-| Produce a picked topic | `2` |
-| Check a claim before writing | `python scripts/check_claim.py "अखंड ज्योत"` |
+| Plan a month | `/plan-reels` (or just say "PNM reel") |
+| Produce a picked topic | `/produce-reel 2` |
+| Check a claim before writing | `/check-claim अखंड ज्योत` |
 | Render narration + measure | `python scripts/render_narration.py script.txt out.mp3` |
 | Pool a generated topic | `python scripts/log_topics.py reject --topic-hi "..." --hook-hi "..."` |
 | Select one for production | `python scripts/log_topics.py select --topic-hi "..." --reel-id PNM-005` |

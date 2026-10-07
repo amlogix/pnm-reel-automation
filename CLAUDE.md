@@ -8,8 +8,8 @@ The content engine for Pandits Near Me's Instagram reels. Hindi devotional short
 
 ## READ FIRST, EVERY SESSION
 
-1. `skills/pnm-reels/SKILL.md` — the engine. Three modes.
-2. `skills/pnm-reels/references/` — format library, hook formulas, brand bible, protocols.
+1. `.claude/skills/pnm-reels/SKILL.md` — the engine (also auto-loaded by Claude Code as a skill). Topic generation, produce, story mode.
+2. `.claude/skills/pnm-reels/references/` — format library, hook formulas, brand bible, protocols.
 3. `data/` — the live, **writable** state.
 
 ## THE CRITICAL DIFFERENCE FROM CLAUDE.AI
@@ -48,10 +48,10 @@ These are not training gaps. They are facts that live outside the model.
 ## FILE CONVENTIONS
 
 - Reel packages → `outputs/reels/PNM-[NNN]-[slug].md`
-- **No tool or model is ever named in `skills/references/`.** Models change; structure does not. The only fixed tool decision is ElevenLabs for narration.
+- **No tool or model is ever named in `.claude/skills/pnm-reels/references/`.** Models change; structure does not. The only fixed tool decision is ElevenLabs for narration.
 - Character references → `assets/characters/[CHARACTER_ID]_[angle].png`
 - Competitor reference clips → `assets/references/`
-- Never write into `skills/` during a run. The skill is logic; `data/` is state.
+- Never write into `.claude/` during a run. The skill is logic; `data/` is state.
 
 ## SECRETS
 
