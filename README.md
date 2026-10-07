@@ -113,7 +113,7 @@ Week 1  python scripts/fetch_competitors.py     # refresh competitor hooks
         pick topics → produce packages
 
 Week 1-4  produce → render narration → generate → edit → publish
-          python scripts/log_reel.py  after each publish
+          mark the content-log row as published after each publish
 
 Day 7 after each publish:  add views / sends / saves to the log row
 ```

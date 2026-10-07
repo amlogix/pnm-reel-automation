@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/check_claim.py:*)",
+      "Bash(python scripts/log_topics.py:*)"
+    ],
+    "deny": [
+      "Read(./.env)"
+    ]
+  }
+}

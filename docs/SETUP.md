@@ -21,7 +21,7 @@ That same `ELEVENLABS_VOICE_ID` carries every reel in every format. Recognition 
 
 ```bash
 python scripts/check_claim.py "test"        # should say UNVERIFIED
-python scripts/log_reel.py --reel-id TEST   # should append a row
+python scripts/log_topics.py list           # should print pool and log counts
 ```
 
 If both work, the writable layer is live — which is the main reason to run here rather than on claude.ai.
