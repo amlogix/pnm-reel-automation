@@ -11,6 +11,9 @@ unselected topic from resurfacing in a later session.
   python log_topics.py reject --topic-hi "..." --hook-hi "..." --formula ... --category ... --type ...
   python log_topics.py select --topic-hi "..."
 """
+import sys as _sys
+for _s in (_sys.stdout, _sys.stderr):  # Windows consoles default to cp1252; output is Devanagari
+    _s.reconfigure(encoding="utf-8")
 import csv, sys, argparse
 from pathlib import Path
 from datetime import date

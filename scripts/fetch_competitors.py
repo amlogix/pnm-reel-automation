@@ -7,6 +7,9 @@ Apify is used because Instagram's own API does not expose other accounts' view
 counts. That also means this can break when Instagram changes something — the
 manual fallback in the skill stays valid.
 """
+import sys as _sys
+for _s in (_sys.stdout, _sys.stderr):  # Windows consoles default to cp1252; output is Devanagari
+    _s.reconfigure(encoding="utf-8")
 import os, json, requests
 from pathlib import Path
 from datetime import date

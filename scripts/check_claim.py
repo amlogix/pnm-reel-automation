@@ -5,6 +5,9 @@ verification gate scale: verified once, reused forever.
 
 Usage: python check_claim.py "अखंड ज्योत"
 """
+import sys as _sys
+for _s in (_sys.stdout, _sys.stderr):  # Windows consoles default to cp1252; output is Devanagari
+    _s.reconfigure(encoding="utf-8")
 import csv, sys
 from pathlib import Path
 

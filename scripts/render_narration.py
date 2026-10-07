@@ -7,6 +7,9 @@ so scene durations come from measured audio rather than estimates.
 
 Usage: python render_narration.py script.txt out.mp3
 """
+import sys as _sys
+for _s in (_sys.stdout, _sys.stderr):  # Windows consoles default to cp1252; output is Devanagari
+    _s.reconfigure(encoding="utf-8")
 import os, sys, subprocess, requests
 from pathlib import Path
 from dotenv import load_dotenv
